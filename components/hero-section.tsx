@@ -8,16 +8,16 @@ import { cn } from "@/lib/utils"
 
 const heroContent = [
   {
-    title: "Dive Into Divine",
-    subtitle: "Premium Interior Solutions",
-    quote: "Transforming spaces with innovative design and quality craftsmanship.",
-    image: "https://ik.imagekit.io/xnx0c7nxo/0d2fb2d0-1ee5-4580-a009-14d856264fae.jpeg?updatedAt=1746113832024",
+    title: "Luxury Interiors",
+    subtitle: "Live luxury",
+    quote: "Transforming spaces with luxury Interior and quality craftsmanship.",
+    image: "https://ik.imagekit.io/qgpcp9kq5/New%20folder/pexels-alex-qian-1180283-2343465.jpg",
   },
   {
-    title: "Aluminium Interiors",
-    subtitle: "Modern Design Solutions",
+    title: "Dive Into Divine",
+    subtitle: "Premium Interior Solutions",
     quote: "Contemporary aluminium partitions and windows for your space.",
-    image: "https://ik.imagekit.io/xnx0c7nxo/CLASSIC%20LIVING%20ROOM.jpeg?updatedAt=1746114040780",
+    image: "https://ik.imagekit.io/qgpcp9kq5/New%20folder/pexels-houzlook-3356416.jpg",
   },
   {
     title: "Glass Partitions",
